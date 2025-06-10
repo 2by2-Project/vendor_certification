@@ -1,0 +1,9 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel Fold",
+  "FINGERPRINT": "google/felix_beta/felix:16/BP31.250502.008.A1/13572937:user/release-keys",
+  "PRODUCT": "felix_beta",
+  "DEVICE": "felix",
+  "VERSION.SECURITY_PATCH": "2025-05-05",
+  "VERSION.DEVICE_INITIAL_SDK_INT": "32"
+}
